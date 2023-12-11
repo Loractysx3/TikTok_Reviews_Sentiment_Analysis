@@ -1,0 +1,9 @@
+pandas
+notebook
+numpy
+plotly
+statsmodels
+openpyxl
+scikit-learn
+wordcloud
+nltk
